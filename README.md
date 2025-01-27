@@ -3,3 +3,4 @@
 ### By Austin Schlake
 
 ![](https://github.com/AnotherAnotherAustin/repotime/blob/main/rat-spinning.gif) ![](https://github.com/AnotherAnotherAustin/repotime/blob/main/rotating-chips.gif)
+![](https://github.com/AnotherAnotherAustin/repotime/blob/main/fish-spinning.gif)
