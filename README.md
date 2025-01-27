@@ -1,2 +1,4 @@
 # repotime
-##SQUID GAME
+## SQUID GAME
+### YE
+`#0969DA`
