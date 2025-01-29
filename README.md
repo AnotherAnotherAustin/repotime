@@ -8,9 +8,12 @@
 
 *Austin Schlake:*
 
-> grew up in <ins>Nebraska</ins>
-> attending college in <ins>New Jersey</ins>
-> Attempting a bachelor's in <ins>Computer Engineering</ins>
-> [Linkedin is](linkedin.com/in/austin-schlake)
+> - grew up in <ins>Nebraska</ins>
+
+> - attending college in <ins>New Jersey</ins>
+
+> - Attempting a bachelor's in <ins>Computer Engineering</ins>
+
+> - [LinkedIn](linkedin.com/in/austin-schlake)
 
 
