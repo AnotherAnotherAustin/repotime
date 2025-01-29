@@ -14,6 +14,6 @@
 
 > - Attempting a bachelor's in <ins>Computer Engineering</ins>
 
-> - [LinkedIn](linkedin.com/in/austin-schlake)
+> - [LinkedIn](https://linkedin.com/in/austin-schlake)
 
 
