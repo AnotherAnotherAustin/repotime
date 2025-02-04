@@ -10,9 +10,7 @@
 *Austin Schlake:*
 
 > 1. grew up in <ins>Nebraska</ins>
-
 > 2. attending college in <ins>New Jersey</ins>
-
 > 3. Attempting a bachelor's in <ins>Computer Engineering</ins>
 ---
 
