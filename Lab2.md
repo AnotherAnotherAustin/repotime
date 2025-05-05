@@ -48,7 +48,7 @@
 - mkdir: cannot create directory ‘demo’: File exists
 
 > $ cd demo
-austi@DESKTOP-25RC8J8 MINGW64 ~/demo
+- austi@DESKTOP-25RC8J8 MINGW64 ~/demo
 
 > $ nano file
 - ![](https://github.com/AnotherAnotherAustin/repotime/blob/main/nano.png) 
