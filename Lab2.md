@@ -1,7 +1,7 @@
 # Lab 2 — Command Line
 ---
 ## Below are the commands, followed by the response from the terminal for each
-> $ 
+> $ hostname
 - DESKTOP-25RC8J8
 
 > $ env
