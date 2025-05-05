@@ -132,7 +132,7 @@
 
 ---
 ### Screenshot of terminal
-![](https://github.com/AnotherAnotherAustin/repotime/blob/main/Lab3-Terminal) 
+![](https://github.com/AnotherAnotherAustin/repotime/blob/main/Lab3-Terminal.png) 
 
 
 
