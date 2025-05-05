@@ -42,7 +42,7 @@
 
 > $ df
 - Filesystem           1K-blocks      Used Available Use% Mounted on
-C:/Program Files/Git 497273852 383957436 113316416  78% /
+- C:/Program Files/Git 497273852 383957436 113316416  78% /
 
 > $ mkdir demo
 - mkdir: cannot create directory ‘demo’: File exists
