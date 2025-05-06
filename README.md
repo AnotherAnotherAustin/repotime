@@ -24,7 +24,7 @@
 - [Lab 3](https://github.com/AnotherAnotherAustin/repotime/blob/main/Lab3.md)
 - [Lab 4]
 - [Lab 5](https://github.com/AnotherAnotherAustin/repotime/blob/main/Lab5.md)
-- [Lab 6]
+- [Lab 6](https://github.com/AnotherAnotherAustin/repotime/blob/main/Lab6.md)
 - [Lab 7]
 - [Lab 8]
 - [Lab 9]
